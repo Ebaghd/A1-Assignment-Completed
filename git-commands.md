@@ -5,21 +5,21 @@ A total of 15 points is available:
 
 ```bash
 # Print your working directory [1 point]
-
+pwd
 # List the files in your current directory [1 point]
-
+ls
 # Change your directory to a folder in which you do work for this class [1 point]
-
+cd desktop/info201
 # Clone your assignment repository from GitHub to your machine [2 points]
-
+git clone https://github.com/uw-ischool-info-201a-2019-autumn/a1-Ebaghd.git
 # Using a *relative path*, change your directory to inside the repository you just cloned [2 points]
-
+cd desktop/a1-Ebaghd
 # Find the file "mary.gif" with 'cd' commands. What is the *absolute path* to this file? [2 points]
-
+cd /users/14253/desktop/a1-Ebaghd/images/photos/people/mary/
 # Add all of your changes that you've made to git [2 points]
-
+git add .
 # Make a commit of your changes, including a descriptive message [2 points: -1 if the commit doesn't describe the work completed]
-
+git commit -m "Complete Part 1 answers for assignment #1: A1-Basic Tools"
 # Push your change up to GitHub [2 points - ``push`` is just fine]
-
+git push
 ```
