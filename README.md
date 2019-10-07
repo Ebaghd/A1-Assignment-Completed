@@ -1,10 +1,10 @@
 # **Alan Turing**
-![Alan Turing Image](images/photos/people/alan/alan.jpg)
+![Alan Turing Image](images/photos/people/Turing/alan.jpg)
 - **Full Name:** Alan Mathison Turing
 - **Date of Birth:** June 23, 1912
 - **Date of death:** June 07, 1954
 - **Age at death:** 41
-- **Main area of research:**  theoretical computer science
+- **Main area of research:**  Theoretical Computer Science
 - **Two key facts about Alan Turing's personal life:**
   1. He was a homosexual.
   2. he came up with the idea of a machine that was able to compute anything that could be computed.
@@ -18,7 +18,7 @@
 - [Obituary](https://www.nytimes.com/2019/06/05/obituaries/alan-turing-overlooked.html)
 - [Alan Turing Wikipedia Page](https://en.wikipedia.org/wiki/Alan_Turing)
 # **Douglas Engelbart**
-![Douglas Engelbart Image](images/photos/people/douglas/doug.png)
+![Douglas Engelbart Image](images/photos/people/Engelbart/doug.png)
 - **Full Name:** Douglas Carl Engelbart
 - **Date of Birth:** January 30, 1925
 - **Date of Death:** July 02, 2013
