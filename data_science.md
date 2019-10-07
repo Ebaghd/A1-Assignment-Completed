@@ -1,0 +1,5 @@
+- Weapon of Math Destruction -
+> The math-powered applications powering the data economy ... many of these models encoded human prejudice, misunderstandings, and bias into the software systems that increasingly managed our lives... And they tended to punish the poor and the oppressed in our society, while making the rich richer.
+>
+  - An example of a Weapon of Math Destruction, (WMD) is when the new mayor of Washington DC set out to improve the education system. They started evaluating teachers based upon how their students were doing. A great teacher who received excellent reviews from the principal and parents received a miserable score on her evaluation. This is a WMD because it evaluates a teacher based on student performance - not accounting for personal factors that can go in to how well one learns. It unfairly blames the teacher without taking other factors into consideration.
+-Gender Trends in Computer science authorship- I believe the main research question is, "What is the association between Computer Science Authorship and gender?"
